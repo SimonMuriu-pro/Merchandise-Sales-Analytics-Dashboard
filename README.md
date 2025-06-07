@@ -1,4 +1,4 @@
-<h1>📊 Sales Dashboard - Power BI Project</h1>
+<h1>📊 Merchandise Sales Dashboard - Power BI Project</h1>
 
 
 <h2>🧾 Overview </h2>
